@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OfficeRepairTracker.Core/OfficeRepairTracker.Core.csproj" />
+  <Project Path="OfficeRepairTracker.Infrastructure/OfficeRepairTracker.Infrastructure.csproj" />
+  <Project Path="OfficeRepairTracker.Web/OfficeRepairTracker.Web.csproj" />
+</Solution>
